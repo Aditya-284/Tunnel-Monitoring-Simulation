@@ -3,7 +3,9 @@
 📌 Overview
 This project implements a Tunnel Monitoring System using Cisco Packet Tracer, ensuring real-time monitoring, security, and efficient communication within tunnel infrastructures. The system utilizes VLANs, RIPv2, DHCP, SSH, and port security to enhance network reliability and security.
 
+
 🎯 Features
+
 ✅ Real-time Network Communication – Ensures seamless connectivity between monitoring nodes.
 
 ✅ VLAN Implementation – Efficient traffic segmentation for different tunnel services.
@@ -14,20 +16,24 @@ This project implements a Tunnel Monitoring System using Cisco Packet Tracer, en
 
 ✅ SSH-Enabled Access – Remote secure network management.
 
+
 🛠 Technologies Used
-Cisco Packet Tracer
 
-VLANs, RIPv2, DHCP, SSH
+1) Cisco Packet Tracer
 
-Network Security Features
+2) VLANs, RIPv2, DHCP, SSH
+
+3) Network Security Features
+   
 
 🚀 Getting Started
 
-Open Cisco Packet Tracer.
+1) Open Cisco Packet Tracer.
 
-Load the tunnel_monitoring.pkt file.
+2) Load the tunnel_monitoring.pkt file.
 
-Run the simulation and observe real-time data flow.
+3) Run the simulation and observe real-time data flow.
+
 
 🔥 Future Enhancements
 
